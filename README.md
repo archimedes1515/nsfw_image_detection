@@ -4,7 +4,7 @@
 ![Alt Text](https://github.com/archimedes1515/nsfw_image_detection/blob/master/demo.gif)
 
 ## Description
-In the current DS-project I've created an image classifier in order to detect NSFW images.<br />
+In the current DS-project I've created an image classifier in order to detect NSFW (i.e. sexually explicit) images.<br />
 To my mind the final version of this project more or less features all the main aspects of complete product:<br />
 * Data collection and filtering;
 * Model training;
